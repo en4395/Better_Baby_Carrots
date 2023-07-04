@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "betterbabycarrots:block/chickpeas_stage0"
+    },
+    "age=1": {
+      "model": "betterbabycarrots:block/chickpeas_stage1"
+    },
+    "age=2": {
+      "model": "betterbabycarrots:block/chickpeas_stage2"
+    },
+    "age=3": {
+      "model": "betterbabycarrots:block/chickpeas_stage3"
+    },
+    "age=4": {
+      "model": "betterbabycarrots:block/chickpeas_stage4"
+    },
+    "age=5": {
+      "model": "betterbabycarrots:block/chickpeas_stage5"
+    },
+    "age=6": {
+      "model": "betterbabycarrots:block/chickpeas_stage6"
+    }
+  }
+}

@@ -1,3 +1,7 @@
 {
-  "item.betterbabycarrots.baby_carrot": "Baby Carrot"
+  "item.betterbabycarrots.baby_carrot": "Baby Carrot",
+  "item.betterbabycarrots.chickpea": "Chickpea",
+  "item.betterbabycarrots.chickpea_seeds": "Chickpea Seeds",
+
+  "block.betterbabycarrots.chickpea_crop": "Chickpea Crop"
 }
